@@ -17,9 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"打印一下");
-    NSLog(@"jenkins ceshi!");
-    NSLog(@"jenkins ceshi ceshi!");
-    NSLog(@"jenkins ceshi ceshi!");    
+    NSLog(@"jenkins ceshi!"); 
     // Do any additional setup after loading the view, typically from a nib.
 }
 
