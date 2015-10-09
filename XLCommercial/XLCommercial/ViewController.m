@@ -15,9 +15,7 @@
 @implementation ViewController
 
 - (void)viewDidLoad {
-    [super viewDidLoad];
-    NSLog(@"打印一下");
-    NSLog(@"jenkins ceshi!"); 
+    [super viewDidLoad]; 
     // Do any additional setup after loading the view, typically from a nib.
 }
 
